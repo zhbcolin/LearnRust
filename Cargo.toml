@@ -4,11 +4,9 @@ version = "0.1.0"
 edition = "2021"
 
 [[bin]]
-#name = "helloworld"
-#path = "hello_world/helloworld.rs"
 
-name = "variables"
-path = "variables/variables.rs"
+name = "branches"
+path = "branches/branches.rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
